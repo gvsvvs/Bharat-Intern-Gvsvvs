@@ -1,7 +1,10 @@
 # Bharat-Intern-Gvsvvs
 This repository contains three tasks of machine learning done as a part of internship program 
+
 1.House Price Prediction 
+
 2.Iris Flower Classification
+
 3.Wine Quality Prediction
 
 The common steps followed are :
