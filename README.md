@@ -1,4 +1,4 @@
-# Bharat-Intern-Gvsvvs
+# Prediction and Classification
 This repository contains three tasks of machine learning done as a part of internship program 
 
 1.House Price Prediction 
